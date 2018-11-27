@@ -1,0 +1,3 @@
+[submodule "projects/ng-collection-utils"]
+	path = projects/ng-collection-utils
+	url = https://github.com/guillemcordoba/ng-collection-utils.git
